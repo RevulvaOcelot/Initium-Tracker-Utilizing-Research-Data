@@ -1,6 +1,22 @@
 # Initium-Tracker-Utilizing-Research-Data
 The project formerly known as IPISSED (Improved Packaged Initium Super Sizzling Enhancement Device)
 
+!!!!!!!!!!!!!!!! NOTICE !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+https://github.com/BrokenCodeWriter/Initium-Tracker-Utilizing-Research-Data is now the latest version. That version plays well with InitiumPro. See its repo for more info.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 New name credited to Liam and I! 
 
 So. Here we are again. I still suck at programming, but you can bet your ass I made this easier to use and modify. 
